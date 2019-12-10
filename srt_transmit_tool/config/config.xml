@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ROOT>
+  <param_list>
+    <param srcport="6000" dstip="127.0.0.1" dstport="7000" />
+    <param srcport="6001" dstip="127.0.0.1" dstport="7001" />
+    <param srcport="6002" dstip="127.0.0.1" dstport="7002" />
+    <param srcport="6003" dstip="127.0.0.1" dstport="7003" />
+    <param srcport="6004" dstip="127.0.0.1" dstport="7004" />
+    <param srcport="6005" dstip="127.0.0.1" dstport="7005" />
+  </param_list>
+</ROOT>
