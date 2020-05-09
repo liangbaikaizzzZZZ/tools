@@ -1,0 +1,19 @@
+{
+	"display" : 
+	{
+		"x" : 2000,
+		"y" : 400
+	},
+	"dstpic" : 
+	{
+		"height" : 1920,
+		"path" : "../image/dst.png",
+		"width" : 3840
+	},
+	"srcpic" : 
+	{
+		"height" : 41,
+		"path" : "../image/src.png",
+		"width" : 406
+	}
+}
